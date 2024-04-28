@@ -51,6 +51,11 @@ header .year-header {
     justify-content: space-around;
 }
 
+.desktop ul li a {
+    color: white;
+    text-decoration: none;
+}
+
 .mobile {
     display: none;
 }
@@ -273,7 +278,8 @@ footer .credits p {
 
     .option a {
         display: inline-block;
-        width: 86%;
+        width: 100%;
+        padding: 10px 0;
     }
 
     .figures {
