@@ -40,7 +40,7 @@ header .year-header {
     background-color: rgba(34, 34, 34, 0.219);
     color: white;
     width: 100%;
-    padding: 20px;
+    padding: 20px 0px;
 }
 
 .desktop ul {
